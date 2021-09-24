@@ -11,4 +11,5 @@
 - настройка расширения файлов: "_.{js,jsx}": "eslint --cache --fix",
   "_.{js,jsx,css,scss}": "prettier --write"
 - установить пакет npm install --save prop-types
-- установить пакет
+- установить пакет npm install gh-pages --save-dev и настроить его
+  (https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
