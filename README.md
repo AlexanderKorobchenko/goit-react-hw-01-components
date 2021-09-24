@@ -7,4 +7,5 @@
 - инициализация lint-staged и huskynpx "mrm@2 lint-staged"
 - настройка расширения файлов: "_.{js,jsx}": "eslint --cache --fix",
   "_.{js,jsx,css,scss}": "prettier --write"
--
+- установить пакет npm install --save prop-types
+- установить пакет
